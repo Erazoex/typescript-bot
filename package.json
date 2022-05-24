@@ -1,0 +1,26 @@
+{
+  "name": "typescript-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erazoex/typescript-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erazoex/typescript-bot/issues"
+  },
+  "homepage": "https://github.com/Erazoex/typescript-bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.33.0",
+    "discord.js": "^13.7.0"
+  }
+}
